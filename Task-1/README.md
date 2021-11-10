@@ -1,19 +1,22 @@
-### Name - Ashwini More
-### Data Science Intern @ LGM
+# Name - Ashwini More
+## Data Science Intern @ LGM
 #### Task 1
 #### Beginner Level
-### Name of Project : Iris Flowers Classification ML Project
-##### Project Description : This particular ML project is usually referred to as the “Hello World” of Machine Learning. The iris flowers dataset contains numeric attributes, and     it is perfect for beginners to learn about supervised ML algorithms, mainly how to load and handle data. Also, since this is a small dataset, it can easily fit in memory without   requiring special transformations or scaling capabilities.
-##### Dataset link : http://archive.ics.uci.edu/ml/datasets/Iris
-#### About Dataset
+## Name of Project : Iris Flowers Classification ML Project
+#### Project Description : This particular ML project is usually referred to as the “Hello World” of Machine Learning. The iris flowers dataset contains numeric attributes, and     it is perfect for beginners to learn about supervised ML algorithms, mainly how to load and handle data. Also, since this is a small dataset, it can easily fit in memory without   requiring special transformations or scaling capabilities.
+#### Dataset link : http://archive.ics.uci.edu/ml/datasets/Iris
+### About Dataset
   > The data set contains 3 classes with 50 instances each, and 150 instances in total, where each class refers to a type of iris plant.
 
-#### Class : Iris Setosa,Iris Versicolour, Iris Virginica
+### Class : Iris Setosa,Iris Versicolour, Iris Virginica
 
-#### Format for the data: (sepal_length, sepal_width, petal_length, petal_width)
+### Format for the data: (sepal_length, sepal_width, petal_length, petal_width)
 
-### Machine Learning Algorithm Used :
-#### 1.Supervised Learning-
+## Machine Learning Algorithm Used :
+### 1.Supervised Learning-
       - KNN Algorithm, Decision Tree
-#### 2.Unsupervised Learning-
+### 2.Unsupervised Learning-
       - K Mean Clustering
+      
+### LinkedIn Link : https://www.linkedin.com/posts/ashwini-more-2482671a3_connections-taskabr1-lgmvip-activity-6864192994283675649-N68E
+### Youtube Link : https://www.youtube.com/watch?v=z9rdzsCsMqc
