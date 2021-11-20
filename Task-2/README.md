@@ -1,4 +1,5 @@
-## Tool: JupyterLab
+## Name: Ashwini More
+## Data Science Intern @LGM
 ## Level: Beginner
 
 ## Task: Converting an Image into Pencil Sketch Using Python
