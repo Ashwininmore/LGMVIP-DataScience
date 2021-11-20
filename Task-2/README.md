@@ -13,6 +13,6 @@
 ![dd]()
 
 
-- Youtube Link : 
-- LinkedIN Post Link : 
+- Youtube Link : https://youtu.be/C4HR3Knk8ag
+- LinkedIN Post Link : https://www.linkedin.com/feed/update/urn:li:activity:6867857718322053120
 
