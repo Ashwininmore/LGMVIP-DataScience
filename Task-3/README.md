@@ -10,6 +10,6 @@
 ![test_img](decisionTree.png)
 
 
-- Youtube Link : 
+- Youtube Link : https://youtu.be/0BuHCOGEOq0
 - LinkedIN Post Link :
 
