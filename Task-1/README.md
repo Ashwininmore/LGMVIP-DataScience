@@ -1,4 +1,4 @@
-## Name - Ashwini More
+## `Name:` Ashwini More
 ## Data Science Intern @ LGM
 ### Task 1
 ### Beginner Level
