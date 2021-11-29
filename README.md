@@ -11,7 +11,7 @@ I am glad to inform that I have being a part of Let's Grow More virtual internsh
 ### Beginner Level Task
 ### Link to the project : https://github.com/Ashwininmore/LGMVIP-DataScience/tree/main/Task-2
 
-## `Task 3 :` Image to Pencil Sketch with Python
+## `Task 3 :` Prediction Using Decision Tree Algorithm
 ### Intermediate Level Task
 ### Link to the project : https://github.com/Ashwininmore/LGMVIP-DataScience/tree/main/Task-3
 
