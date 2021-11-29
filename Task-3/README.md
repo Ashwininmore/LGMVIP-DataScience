@@ -6,11 +6,8 @@
 
 #### Task Description: Create the Decision Tree classifier and visualize it graphically.The purpose is if we feed any new data to this classifier, it would be able to  predict the right class accordingly. 
 
-### Original Image
+### Graphical visualization of Decision Tree
 ![test_img](decisionTree.png)
-
-### Pencil Sketch Conversion
-![dd]()
 
 
 - Youtube Link : 
