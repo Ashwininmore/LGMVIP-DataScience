@@ -11,5 +11,5 @@
 
 
 - Youtube Link : https://youtu.be/0BuHCOGEOq0
-- LinkedIN Post Link :
+- LinkedIN Post Link : https://www.linkedin.com/feed/update/urn:li:activity:6871093238162321408
 
