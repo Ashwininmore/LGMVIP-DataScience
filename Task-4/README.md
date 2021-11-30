@@ -7,7 +7,7 @@
 #### `Datasetlink:` https://raw.githubusercontent.com/mwitiderrick/stockprice/master/NSE-TATAGLOBAL.csv
 
 
-- Youtube Link : 
+- Youtube Link : https://youtu.be/TC4ohTNwX8M
 - LinkedIN Post Link : 
 
 
