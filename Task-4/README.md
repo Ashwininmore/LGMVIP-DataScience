@@ -8,6 +8,6 @@
 
 
 - Youtube Link : https://youtu.be/TC4ohTNwX8M
-- LinkedIN Post Link : 
+- LinkedIN Post Link : https://www.linkedin.com/posts/ashwini-more-2482671a3_connections-taskabr4-lgmvip-activity-6871511712990826496-LaEp
 
 
